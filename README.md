@@ -1,4 +1,4 @@
-# DayDream-Spring-Boot
+# DayDream-SpringBoot
 
 🍗 DayDream 白日梦商城，后端代码。
 
