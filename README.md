@@ -1,11 +1,10 @@
 # DayDream-Spring-Boot
+
 🍗 DayDream 白日梦商城，后端代码。
 
-# DayDream
- 
-DayDream 白日梦商城，目前只适应移动端的 Demo。基于 Spring Boot + Vue 进行前后端分离开发。
+🍔 目前只适应移动端的 Demo。基于 Spring Boot + Vue 进行前后端分离开发。
 
-DayDream 顾名思义就是白日梦嘛，只出售百万级别以上的商品，直接下单就能买到哦。ヾ(≧▽≦*)o
+🥯DayDream 顾名思义就是白日梦嘛，只出售百万级别以上的商品，直接下单就能买到哦。ヾ(≧▽≦*)o
 
 - 前端：Vue全家桶
 - 后端：Spring Boot + MySQL
